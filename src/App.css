@@ -1,0 +1,10 @@
+.content-app{
+    text-align: center;
+}
+.content-list{
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+}
